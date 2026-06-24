@@ -1,0 +1,2 @@
+# Storage
+all_accounts = []
